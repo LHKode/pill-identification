@@ -1,0 +1,17 @@
+pylint
+black
+numpy
+opencv-python
+torch
+torchmetrics
+python-dotenv
+Pillow
+rembg
+tqdm
+paddle-bfloat
+paddleocr
+paddlepaddle
+Unidecode
+tesseract
+tesseract-ocr
+libtesseract-dev

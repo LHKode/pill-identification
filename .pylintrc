@@ -1,0 +1,10 @@
+[MASTER]
+
+max-line-length=140
+disable=C0114,C0115,C0116,R0903,W0511,C0321
+
+[TYPECHECK]
+ignored-modules=cv2
+
+[FORMAT]
+good-names=i,j,k,ex,Run,_,pk,x,y,w,h

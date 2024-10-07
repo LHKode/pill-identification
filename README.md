@@ -1,2 +1,9 @@
-# pill-identification
-pill-identification conducting by R&amp;D team at KMS healthcare company
+# Pills identification
+
+
+## Setup project
+
+```bash
+pip install -r requirements.txt
+pip install -e ./
+```
